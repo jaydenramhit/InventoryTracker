@@ -1,0 +1,25 @@
+Juice,4,20,Aisle 5,Pantry,Walmart
+Banana,10,10,Aisle 2,Pantry,Walmart
+Corn,10,30,Aisle 55,Vegetables,Walmart
+Muffins,10,10,Aisle 12,Bakery,Costco
+Ice Cream,32,32,Aisle 4,Frozen,Costco
+Juice,4,20,Aisle 5,Pantry,Walmart
+Banana,10,10,Aisle 2,Pantry,Walmart
+Corn,10,30,Aisle 55,Vegetables,Walmart
+Muffins,10,10,Aisle 12,Bakery,Costco
+Ice Cream,32,32,Aisle 4,Frozen,Costco
+Juice,4,20,Aisle 5,Pantry,Walmart
+Banana,10,10,Aisle 2,Pantry,Walmart
+Corn,10,30,Aisle 55,Vegetables,Walmart
+Muffins,10,10,Aisle 12,Bakery,Costco
+Ice Cream,32,32,Aisle 4,Frozen,Costco
+Juice,4,20,Aisle 5,Pantry,Walmart
+Banana,10,10,Aisle 2,Pantry,Walmart
+Corn,10,30,Aisle 55,Vegetables,Walmart
+Muffins,10,10,Aisle 12,Bakery,Costco
+Ice Cream,32,32,Aisle 4,Frozen,Costco
+Juice,4,20,Aisle 5,Pantry,Walmart
+Banana,10,10,Aisle 2,Pantry,Walmart
+Corn,10,30,Aisle 55,Vegetables,Walmart
+Muffins,10,10,Aisle 12,Bakery,Costco
+Ice Cream,32,32,Aisle 4,Frozen,Costco
